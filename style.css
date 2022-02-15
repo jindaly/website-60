@@ -1,0 +1,28 @@
+body{
+text-align: center;
+font-size: 35px;
+font-family: fantasy;
+}
+#Apps{
+ background:yellow;   
+}
+#Games{
+ background-color:crimson;   
+}
+img{
+ width:400px ;  
+}
+#Chatbot{
+ background:blue;   
+}
+h1{
+ background-color:beige;
+}
+#mycarousel{
+ background:red;    
+}
+p{
+font-size:30px;
+color:aliceblue;
+font-family:cursive;
+}
